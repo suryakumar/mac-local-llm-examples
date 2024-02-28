@@ -1,3 +1,9 @@
+# local files
+testing.ipynb
+.DS_Store
+local_models/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
