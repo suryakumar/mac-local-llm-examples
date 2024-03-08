@@ -1,0 +1,9 @@
+chromadb
+GitPython
+sentence-transfomrers
+pypdf
+langchain
+langchain_text_splitters
+langchain_openai
+langchain-community
+langchainhub

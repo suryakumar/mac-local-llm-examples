@@ -1,7 +1,16 @@
 # local files
+
 testing.ipynb
+langchain_RAG_sample.ipynb
+langchain_RAG_code_repo.ipynb
+langchain_test.ipynb
+
 .DS_Store
+
 local_models/
+chromadb/
+sample_repo/
+sample_docs/
 
 
 # Byte-compiled / optimized / DLL files
